@@ -20,8 +20,6 @@ console.log(c=a+b);
 
 
 
-
-
 /* NONONOONONONONONONONONONONONONONONONONO */
 /* ZERO TERMINATED SUM YEAR 21 */
 
@@ -61,9 +59,6 @@ let c;
 
 /* NONONOONONONONONONONONONONONONONONONONO */
 
-   
-
-
 
 
 /* 
@@ -88,10 +83,6 @@ for (let i = 0; i < array.length; i++) {
     continue;
    }} */
 
-   
-  
-  
-  
 
 
 /*--------------------------------------------------*/
@@ -112,12 +103,9 @@ for (i=0;i<array.length;i+=2){
 
   console.log(b*c);
 
-
-  
 }
  
 */
-
 
 
 /*--------------------------------------------------*/
